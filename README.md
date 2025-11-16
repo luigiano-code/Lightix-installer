@@ -1,2 +1,2 @@
 # Lightix-installer
-Program for installing y linux distro
+Program for installing my linux distro
